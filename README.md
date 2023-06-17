@@ -31,7 +31,8 @@ This is a web based application developed for health related telugu based websit
 
 
 
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
+![Uploading Screenshot 2023-06-17 191550.png…]()
+
 
 
 ### health bot

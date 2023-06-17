@@ -7,6 +7,11 @@ This is a web based application developed for health related telugu based websit
 
 **Project Link** -https://blue-smoke-01dfae800.3.azurestaticapps.net/
 **project demo link** -
+
+ Azure technologies used for project
+ .static web apps
+ .Health bot
+ 
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.

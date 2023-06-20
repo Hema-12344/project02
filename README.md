@@ -25,19 +25,15 @@ Azure technologies used for project
 ## Screenshots
 
  
-   <Screenshot 2023-06-17 190316" src="https://github.com/Hema-12344/project02/assets/113771714/16d64fc4-a1c8-4d13-ab23-c720f2329ba5">
-
+ <img width="943" alt="Screenshot 2023-06-20 132017" src="https://github.com/Hema-12344/project02/assets/113771714/3f45d916-7170-492d-80f9-52dc8ec14ed4">
 
 ### About Us -
 
-
-<Screenshot 2023-06-17 191550" src="https://github.com/Hema-12344/project02/assets/113771714/e9f4dac8-d272-43f7-8ed6-abf6b96920e8">
+<img width="925" alt="Screenshot 2023-06-20 132118" src="https://github.com/Hema-12344/project02/assets/113771714/b81ed5ba-7de6-4836-bd88-cefeb785c52e">
 
 ### health bot
 
-
-<Screenshot 2023-06-17 190403" src="https://github.com/Hema-12344/project02/assets/113771714/ea306ee1-de74-4a63-a28d-8a229b90b57f">
-
+<img width="913" alt="Screenshot 2023-06-20 132159" src="https://github.com/Hema-12344/project02/assets/113771714/f1812798-505e-4180-8fe0-69ebeeedd943">
 
 ## Tech Stack 💻
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)

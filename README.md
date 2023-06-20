@@ -1,17 +1,14 @@
-# ✨Parlour ✨
+# ✨ Parlour ✨
 
 This is a web based application developed for health related telugu based website in india
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -https://blue-smoke-01dfae800.3.azurestaticapps.net/
+**Project Link** - https://blue-smoke-01dfae800.3.azurestaticapps.net/
 **project demo link** -
 
- Azure technologies used for project
- .static web apps
- .Health bot
- 
+
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
@@ -23,26 +20,22 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
+ 
+   <Screenshot 2023-06-17 190316" src="https://github.com/Hema-12344/project02/assets/113771714/16d64fc4-a1c8-4d13-ab23-c720f2329ba5">
 
-   
-<img width="921" alt="Screenshot 2023-06-17 190316" src="https://github.com/Hema-12344/project02/assets/113771714/9c8bb5cc-a534-49ce-baa5-7c4772076632">
 
 ### About Us -
 
 
-
-
-![Uploading Screenshot 2023-06-17 191550.png…]()
-
-
+<Screenshot 2023-06-17 191550" src="https://github.com/Hema-12344/project02/assets/113771714/e9f4dac8-d272-43f7-8ed6-abf6b96920e8">
 
 ### health bot
 
-<img width="949" alt="Screenshot 2023-06-17 190403" src="https://github.com/Hema-12344/project02/assets/113771714/ff623c52-75c8-4065-9035-d9688ec47364">
+
+<Screenshot 2023-06-17 190403" src="https://github.com/Hema-12344/project02/assets/113771714/ea306ee1-de74-4a63-a28d-8a229b90b57f">
 
 
 ## Tech Stack 💻
-
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS

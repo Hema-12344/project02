@@ -6,7 +6,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://blue-smoke-01dfae800.3.azurestaticapps.net/
-**project demo link** - https://youtu.be/NLtr49Oj8H8
+**project demo link** - https://youtu.be/bv9cSyWqNFM
 
 Azure technologies used for project
 •	Static wed apps
